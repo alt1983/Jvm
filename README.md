@@ -10,3 +10,4 @@
 6. Создается фрейм вызова метода System.out.println(), в heap создаются 3 объекта String, в фрейме создаются ссылки на 3 объекта String, соответственно создаются фреймы вызовов toString() из которых идет ссылка на эти объекты String в heap. 
 7. В Stack memory Создается фрейм вызова метора System.out.println("finished"). В него помещается ссылка на "finished".  
 ![Схема](Scheme.png)
+# app-for-jenkins
